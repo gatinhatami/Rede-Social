@@ -6,3 +6,9 @@
     --secundary-color:#7E60BF;
     --font:"Nunito sans",sans-serif;
 }
+
+  body(
+    background-color:var(--bg-color);
+    color-var(--primary-color);
+    font-femily:var(--font);
+  )
